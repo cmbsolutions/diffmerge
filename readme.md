@@ -30,7 +30,7 @@ A highly customizable Visual Basic .NET (VB.NET) WinForms control for viewing an
 4. Use `DiffPlex` or another diffing method to compare the old and new file contents line-by-line.
 
 🖼 Screenshot
-[image=assets/example.png]
+![Example](assets/example.png)
 
 🧰 Requirements
 - .NET Framework 4.8
